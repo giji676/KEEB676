@@ -1,0 +1,5 @@
+#include "keeb.dts"
+
+&default_transform {
+    col-offset = <6>;
+};
