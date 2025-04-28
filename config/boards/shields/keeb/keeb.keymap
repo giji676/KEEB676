@@ -10,8 +10,8 @@
     &kp ESC    &kp Q    &kp W     &kp E     &kp R     &kp T     &kp Y     &kp U     &kp I     &kp O    &kp P    &kp MINUS
     &kp TAB    &kp A    &kp S     &kp D     &kp F     &kp G     &kp H     &kp J     &kp K     &kp L    &kp SEMI &kp PLUS
     &kp LSHFT  &kp Z    &kp X     &kp C     &kp V     &kp B     &kp N     &kp M     &kp COMMA &kp LPAR &kp RPAR &kp SQT
-    &kp LCTRL  &kp LGUI &kp EQUAL &kp UNDER &kp SPACE &mo 1     &kp KP_1  &kp KP_2  &kp DOT   &kp LBKT &kp RBKT &kp DQT
-                                            &kp BSPC  &mo 3     &kp KP_3  &kp KP_4
+    &kp LCTRL  &kp LGUI &kp EQUAL &kp UNDER &kp SPACE &mo 1     &kp KP_N1 &kp KP_N2  &kp DOT   &kp LBKT &kp RBKT &kp DQT
+                                            &kp BSPC  &mo 3     &kp KP_N3 &kp KP_N4
             >;
         };
         lower_layer {
